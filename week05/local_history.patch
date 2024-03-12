@@ -1,0 +1,26 @@
+Index: src/test/java/org/example/BankTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/org/example/BankTest.java b/src/test/java/org/example/BankTest.java
+--- a/src/test/java/org/example/BankTest.java	
++++ b/src/test/java/org/example/BankTest.java	(date 1710248136563)
+@@ -10,7 +10,7 @@
+         Bank bank = new Bank();
+ 
+         // Create a new customer
+-        Customer customer = new Customer("Alper Uyanik", 1000);
++        Customer customer = new Customer("John Doe", 1000);
+ 
+         // Create an account for the customer
+         Account account = bank.createAccount(customer);
+@@ -39,7 +39,7 @@
+         assertEquals(1200, account.checkBalance());
+ 
+         // Retrieve account by customer name
+-        Account retrievedAccount = bank.retrieveAccount("Alper Uyanik");
++        Account retrievedAccount = bank.retrieveAccount("John Doe");
+ 
+         // Check if retrieved account is the same as the one created
+         assertNotNull(retrievedAccount);
