@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="D:\LESSONS\2024-2025 BAHAR\SE3314\LABS\Week10_std\src\main\java\org\example\App.java">
+</file>
+<file name="D:\LESSONS\2024-2025 BAHAR\SE3314\LABS\Week10_std\src\main\java\org\example\Course.java">
+</file>
+<file name="D:\LESSONS\2024-2025 BAHAR\SE3314\LABS\Week10_std\src\main\java\org\example\Student.java">
+</file>
+<file name="D:\LESSONS\2024-2025 BAHAR\SE3314\LABS\Week10_std\src\main\java\org\example\University.java">
+</file>
+<file name="D:\LESSONS\2024-2025 BAHAR\SE3314\LABS\Week10_std\src\test\java\org\example\AppTest.java">
+</file>
+<file name="D:\LESSONS\2024-2025 BAHAR\SE3314\LABS\Week10_std\src\test\java\org\example\CourseTest.java">
+</file>
+<file name="D:\LESSONS\2024-2025 BAHAR\SE3314\LABS\Week10_std\src\test\java\org\example\StudentTest.java">
+</file>
+<file name="D:\LESSONS\2024-2025 BAHAR\SE3314\LABS\Week10_std\src\test\java\org\example\UniversityTest.java">
+</file>
+</checkstyle>
